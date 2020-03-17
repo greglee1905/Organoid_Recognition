@@ -1,0 +1,5 @@
+classes = 1
+train = /Users/greglee/Data_Science/darknet/htrain.txt
+valid = /Users/greglee/Data_Science/darknet/htest.txt
+names = /Users/greglee/Data_Science/darknet/org_classes.names
+backup = /Users/greglee/Data_Science/darknet/backup
